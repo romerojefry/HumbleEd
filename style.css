@@ -1,5 +1,9 @@
 body{
     background-image: url("images/Tag.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .jumbotron{
     background-image: url("images/HumbleExample.jpg");
