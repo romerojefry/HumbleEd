@@ -1,9 +1,10 @@
 body{
     background-image: url("images/Tag.jpg");
-    background-position: center center;
+    max-width: 100%;
+    background-size: 400px 400px, cover;
     background-repeat: no-repeat;
+    background-position: center center;
     background-attachment: fixed;
-    background-size: cover;
 }
 .jumbotron{
     background-image: url("images/HumbleExample.jpg");
