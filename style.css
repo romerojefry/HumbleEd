@@ -3,10 +3,10 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 400px 400px, cover;
 }
 .jumbotron{
     background-image: url("images/HumbleExample.jpg");
-    background-size: 500px;
+    background-size: cover;
 
 }
